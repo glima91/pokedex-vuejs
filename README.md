@@ -1,7 +1,6 @@
-# pokedexx
-Projeto de um Pokedex desenvolvido durante o curso de Node.js
-
 ![image info](./preview.png)
+# pokedexx
+Projeto de um Pokedex utilizando Vue.js
 ## Project setup
 ```
 npm install
