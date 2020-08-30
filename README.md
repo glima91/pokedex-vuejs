@@ -1,5 +1,5 @@
 # pokedexx
-
+Projeto de um Pokedex desenvolvido durante o curso de Node.js
 ## Project setup
 ```
 npm install
