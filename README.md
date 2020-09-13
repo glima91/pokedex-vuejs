@@ -1,4 +1,3 @@
-![image info](./preview.png)
 # pokedexx
 Projeto de um Pokedex utilizando Vue.js
 ## Project setup
@@ -21,5 +20,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image info](./preview.png)
